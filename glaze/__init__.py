@@ -1,1 +1,1 @@
-from .glaze import Glaze
+from Glaze import Glaze
