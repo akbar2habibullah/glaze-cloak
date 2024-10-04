@@ -30,7 +30,7 @@ target_params = {  # Placeholder, adapt as needed
 }
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-project_root_path = ".glaze"  # Ensure this directory exists
+project_root_path = "./"  # Ensure this directory exists
 jpg = False
 
 # Initialize Glaze

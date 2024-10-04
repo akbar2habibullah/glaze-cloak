@@ -16,8 +16,8 @@ setup(
     ],
     author='Habibullah Akbar',
     author_email='Akbar2habibullah@gmail.com',
-    description='Glaze image cloaking algorithm',
-    long_description='Implementation of the Glaze image cloaking algorithm for protecting against unauthorized AI training.', 
-    url='https://glaze.cs.uchicago.edu/', 
+    description='Implementation of the Glaze image cloaking algorithm for protecting against unauthorized AI training',
+    long_description=open("README.md").read(), 
+    url='https://github.com/akbar2habibullah/glaze-cloak', 
     license='GPL-3.0 license',
 )
